@@ -1,0 +1,8 @@
+
+
+class NewAccount(
+  final int? id;
+  final bool isImportant; 
+  final String firstName; 
+  
+)
