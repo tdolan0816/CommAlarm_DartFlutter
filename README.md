@@ -6,34 +6,89 @@
 
 
 2.![Image 2 Alt Text](Screenshots/NewAccount_Window.png)
+
+
 *New User Account Form*
+
+
+
 3.![Image 3 Alt Text](Screenshots/HomePage_Window.png)
+
+
 *Dashboard Screen that Welcomes the User w/ Their Name, 
 Which is Populated From the User Account Data That is Stored in a SQLite DB*
+
+
+
 4. ![Image 4 Alt Text](Screenshots/HomePage_AllSelected_Updated.png)
+
+
 *Dashboard Screen With User Selected Data*
+
+
+
 5. ![Image 5 Alt Text](Screenshots/NavigationWindow.png)
+
+
 *Secondary Screen for User to Enter in Origin and Destination Locations, 
 The Map is Generated from Google Maps Direction and Distance API's* 
+
+
+
 6. ![Image 6 Alt Text](Screenshots/NavigationWindow_w_Route.png)
+
+
 *Same Secondary Location Screen w/ Route Drawn on the Map, 
 This was Done Using the GoogleMapController, _polylineCoordinates, and _polylinePoints within the Dart Code*
+
+
+
 7. ![Image 7 Alt Text](Screenshots/NavigationWindow_w_Route2.png)
+
+
 *Same Secondary Location Screen w/ Route Drawn on the Map, but w/o the Phones Keypad*
+
+
+
 8. ![Image 8 Alt Text](Screenshots/SetAlarm_Window.png)
+
+
 *Popup Window to Allow User to Select Alarm Time, When the Click the Alarm Time Selection Button*
+
+
+
 9. ![Image 9 Alt Text](Screenshots/SetAlarm_Defaults2CurrentTime.png)
+
+
 *Another View of Alarm Time Selection Popup Window, 
 But Showing That the Initial Alarm Time is Defaulted to Current Time*
+
+
+
 10. ![Image 10 Alt Text](Screenshots/SetETA_Window.png)
+
+
 *Popup Window That Automatically Navigates the User to, 
 When They Click the "OK" Button on the Alarm Time Selection Window* 
+
+
+
 11. ![Image 11 Alt Text](Screenshots/ReadyTime_Window.png)
+
+
 *Popup Window to Allow User to Select Amount of Time the User Estimates How Long it Takes Them to Get Ready, 
 When the Click the Ready Time Selection Button*
+
+
+
 12. ![Image 12 Alt Text](Screenshots/SelectDateRange_Window.png)
+
+
 **Popup Window to Allow User to Select Either a Single Date or a Range of Dates, 
 That They Would Like to Have the Alarm Set to*
+
+
+
 
 # commalarm_app
 
