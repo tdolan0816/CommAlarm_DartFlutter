@@ -8,11 +8,16 @@
 2.![Image 2 Alt Text](Screenshots/NewAccount_Window.png)
 
 
+
 *New User Account Form*
 
 
 
+
+
 3.![Image 3 Alt Text](Screenshots/HomePage_Window.png)
+
+
 
 
 *Dashboard Screen that Welcomes the User w/ Their Name, 
@@ -20,10 +25,16 @@ Which is Populated From the User Account Data That is Stored in a SQLite DB*
 
 
 
+
+
 4. ![Image 4 Alt Text](Screenshots/HomePage_AllSelected_Updated.png)
 
 
+
+
 *Dashboard Screen With User Selected Data*
+
+
 
 
 
