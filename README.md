@@ -1,5 +1,10 @@
 1.![Image 1 Alt Text](Screenshots/LoginWindow.png)
+
+
 *Landing Page/Login Screen at That has Functional Options to Reset Password and Create New Account*
+
+
+
 2.![Image 2 Alt Text](Screenshots/NewAccount_Window.png)
 *New User Account Form*
 3.![Image 3 Alt Text](Screenshots/HomePage_Window.png)
