@@ -1,3 +1,4 @@
+![Alt Text](Screenshots/HomePage_AllSelected_Updated.png)
 # commalarm_app
 
 A new Flutter project.
